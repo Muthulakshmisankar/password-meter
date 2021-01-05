@@ -16,17 +16,27 @@ Step2: Import password-meter-ml into your app module
 import { NgPasswordMeterMlModule } from 'ng-password-meter-ml';
 
 @NgModule({
+
   declarations: [
+  
     AppComponent
+    
   ],
+  
   imports: [
+  
     NgPasswordMeterMlModule,
    
   ],
+  
   providers: [],
+  
   bootstrap: [AppComponent]
+  
 })
+
 export class AppModule { }
+
 _____________________________________________________
 step3: Import password meter component into your form
 
