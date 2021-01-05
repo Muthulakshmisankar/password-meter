@@ -1,5 +1,8 @@
 # password-meter
 angular password strength meter
+--------------------------------
+ng-password-strength-meter-ml
+--------------------------------
 Overview
 --------
 A simple way to check that password strength of a certain passphrase based on HTML5.
