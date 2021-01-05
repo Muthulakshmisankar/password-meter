@@ -32,3 +32,7 @@ step3: Import password meter component into your form
 
 <lib-ng-password-meter-ml [password]="passwrd"></lib-ng-password-meter-ml>
 ______________________________________________________
+
+DEMO:
+---------
+github url : https://github.com/Muthulakshmisankar/password-meter/tree/master/app
