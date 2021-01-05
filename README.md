@@ -13,7 +13,7 @@ step1: npm i ng-password-strength-meter-ml --save
 _____________________________________________________
 Step2: Import password-meter-ml into your app module
 
-import { NgPasswordMeterMlModule } from 'projects/ng-password-meter-ml/src/public-api';
+import { NgPasswordMeterMlModule } from 'ng-password-meter-ml';
 
 @NgModule({
   declarations: [
@@ -35,4 +35,5 @@ ______________________________________________________
 
 DEMO:
 ---------
+You can download and run it from your local.
 github url : https://github.com/Muthulakshmisankar/password-meter/tree/master/app
